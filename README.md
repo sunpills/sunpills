@@ -12,7 +12,7 @@ I'm a frontend developer!
 <div>
   <a href="https://github.com/sunpills">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpills&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eddyzera&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunpills&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 ![Snake animation](https://github.com/sunpills/sunpills/blob/output/github-contribution-grid-snake.svg)
