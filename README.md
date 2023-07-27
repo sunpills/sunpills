@@ -1,4 +1,4 @@
-# 👋 Hey! Welcome to my World.
+# 👋 Hello!
 ## My name is Emily Vaz !!
 
 I'm a frontend developer! 
