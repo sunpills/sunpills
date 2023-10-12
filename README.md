@@ -1,10 +1,9 @@
 # Hello!
 
-I'm a frontend developer! 
+I'm a front-end developer! 
 
 - 🔭 I’m currently working on a open source project.
 - 🌱 I’m currently learning and working with Shopify.
-- 💬 Ask me about ReactJS, Typescript and Javascript or new technologies.
 - 📫 How to reach me: emilykarinavaz@gmail.com
 - ⚡ Fun fact: I love boardgames, video games, movies and series.
 
