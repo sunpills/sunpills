@@ -1,11 +1,10 @@
 # Hello!
 
-I'm a front-end developer! 
+I'm a front-end developer and also a UX/UI designer.
 
-- 🔭 I’m currently working on a open source project.
-- 🌱 I’m currently learning and working with Shopify.
+- 🔭 Javascript, Reactjs, Typescript, HTML, CSS
 - 📫 How to reach me: emilykarinavaz@gmail.com
-- ⚡ Fun fact: I love boardgames, video games, movies and series.
+- ⚡ Fun fact: I love boardgames and videogames.
 
 <div>
   <a href="https://github.com/sunpills">
