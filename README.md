@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Emily, nice to have you here! I'm a front-end developer and also a UX/UI designer.
+I'm Emily, nice to have you here! I'm a front-end developer and also a UX and UI designer.
 
 A brief description:
 - 🔭 Currently learning iOS Development (Swift UI and UI Kit).
