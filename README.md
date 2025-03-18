@@ -1,10 +1,10 @@
 # Hello!
 
-I'm Emily, nice to have you here! I'm a front-end developer and also a UX/UI designer.
+I'm Emily, nice to have you here! I'm a Front-End Developer and also a UX/UI Designer.
 
 A brief description:
-- 🔭 Currently learning iOS Development.
-- Javascript, Reactjs, Typescript, HTML, CSS (SaaS, SCSS, Tailwind CSS, Bootstrap)
+- 🔭 I'm currently learning iOS Development and Flutter.
+- Javascript, Reactjs, Typescript, HTML, CSS (SaaS, SCSS, Tailwind CSS, Bootstrap), Swift (SwiftUI and UIKit).
 - 📫 How to reach me: emilykarinavaz@gmail.com
 - ⚡ Fun fact: I love playing board games and video games.
 
